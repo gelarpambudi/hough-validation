@@ -1,0 +1,90 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "powerline",
+      "points": [
+        [
+          799.9743589743589,
+          4.794871794871796
+        ],
+        [
+          1253.8205128205127,
+          1075.3076923076924
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          673.051282051282,
+          6.07692307692308
+        ],
+        [
+          1144.8461538461538,
+          1066.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          547.4102564102564,
+          7.358974358974351
+        ],
+        [
+          1053.8205128205127,
+          1076.5897435897436
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1717.923076923077,
+          4.794871794871796
+        ],
+        [
+          1914.076923076923,
+          254.79487179487177
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1828.179487179487,
+          0.9487179487179418
+        ],
+        [
+          1919,
+          126
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\image\\test-hough-30.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

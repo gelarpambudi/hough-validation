@@ -1,0 +1,106 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1838.3037974683543,
+          552.0632911392405
+        ],
+        [
+          26.91139240506329,
+          179.91139240506328
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1831.9746835443036,
+          592.5696202531645
+        ],
+        [
+          16.78481012658228,
+          212.82278481012656
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1816.7848101265822,
+          630.5443037974683
+        ],
+        [
+          24.379746835443036,
+          254.59493670886076
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1802.860759493671,
+          684.9746835443037
+        ],
+        [
+          19.31645569620253,
+          362.1898734177215
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1790.2025316455695,
+          720.4177215189873
+        ],
+        [
+          16.78481012658228,
+          397.63291139240505
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1782.607594936709,
+          758.3924050632911
+        ],
+        [
+          7.924050632911392,
+          436.873417721519
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\image\\test-hough-2.PNG",
+  "imageData": null,
+  "imageHeight": 894,
+  "imageWidth": 1920
+}

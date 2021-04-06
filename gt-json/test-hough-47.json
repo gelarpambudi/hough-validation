@@ -1,0 +1,106 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "powerline",
+      "points": [
+        [
+          713.4736842105264,
+          1076.2105263157894
+        ],
+        [
+          1563.4736842105262,
+          10.421052631578945
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          408.2105263157895,
+          1073.578947368421
+        ],
+        [
+          1118.7368421052631,
+          1.2105263157894797
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          377.9473684210526,
+          1070.9473684210527
+        ],
+        [
+          1085.842105263158,
+          1.2105263157894797
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          196.3684210526316,
+          1069.6315789473683
+        ],
+        [
+          937.1578947368421,
+          5.15789473684211
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          96.36842105263158,
+          1068.3157894736842
+        ],
+        [
+          826.6315789473684,
+          2.526315789473685
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          6.894736842105263,
+          865.6842105263157
+        ],
+        [
+          276.63157894736844,
+          1076.2105263157894
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\image\\test-hough-47.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

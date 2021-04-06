@@ -1,0 +1,106 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1296.3684210526317,
+          9.10526315789474
+        ],
+        [
+          1568.7368421052631,
+          1068.3157894736842
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1235.842105263158,
+          5.15789473684211
+        ],
+        [
+          1505,
+          1079
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1170.0526315789473,
+          2.526315789473685
+        ],
+        [
+          1443,
+          1079
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          239.78947368421052,
+          6.473684210526315
+        ],
+        [
+          480,
+          1079
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          168.73684210526315,
+          10.421052631578945
+        ],
+        [
+          402.9473684210526,
+          1074.8947368421052
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          92.42105263157895,
+          3.8421052631578902
+        ],
+        [
+          326.63157894736844,
+          1065.6842105263158
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\image\\test-hough-49.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

@@ -1,0 +1,202 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "powerline",
+      "points": [
+        [
+          648.6486486486486,
+          1.6036036036036032
+        ],
+        [
+          628.8288288288288,
+          210.6126126126126
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          627.027027027027,
+          0.7027027027027026
+        ],
+        [
+          601.8018018018017,
+          228.6306306306306
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          709.009009009009,
+          4.306306306306306
+        ],
+        [
+          683.7837837837837,
+          221.4234234234234
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          731.5315315315314,
+          1.6036036036036032
+        ],
+        [
+          704.5045045045044,
+          233.1351351351351
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          594.5945945945946,
+          250.25225225225222
+        ],
+        [
+          347.7477477477477,
+          847.5495495495495
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          610.8108108108107,
+          264.66666666666663
+        ],
+        [
+          371.1711711711711,
+          842.1441441441441
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          668.4684684684684,
+          282.68468468468467
+        ],
+        [
+          435,
+          848
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          689.1891891891892,
+          287.18918918918916
+        ],
+        [
+          456.7567567567567,
+          846.6486486486485
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          970.2702702702702,
+          2.504504504504504
+        ],
+        [
+          897.2972972972972,
+          839.4414414414414
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          993.6936936936936,
+          0.7027027027027026
+        ],
+        [
+          924.3243243243243,
+          838.5405405405405
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1043.2432432432431,
+          1.6036036036036032
+        ],
+        [
+          972.0720720720719,
+          843.9459459459458
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          1062.162162162162,
+          2.504504504504504
+        ],
+        [
+          994.5945945945945,
+          847.5495495495495
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\image\\test-hough-17.png",
+  "imageData": null,
+  "imageHeight": 849,
+  "imageWidth": 1426
+}

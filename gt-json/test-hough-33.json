@@ -1,0 +1,58 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "powerline",
+      "points": [
+        [
+          779.4615384615385,
+          0.9487179487179418
+        ],
+        [
+          1157.6666666666665,
+          1076.5897435897436
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          714.0769230769231,
+          7.358974358974351
+        ],
+        [
+          1083.3076923076924,
+          1071.4615384615383
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "powerline",
+      "points": [
+        [
+          635.8717948717948,
+          4.794871794871796
+        ],
+        [
+          1007.6666666666666,
+          1076.5897435897436
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\image\\test-hough-33.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}
